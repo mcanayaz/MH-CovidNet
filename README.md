@@ -1,4 +1,4 @@
-# MH-CovidNet
+# MH-COVIDNet
 
 Bu proje X-ray görüntülerinden COVID-19 teşhişi yapan "MH-COVIDNet: Diagnosis of COVID-19 using Deep Neural Networks and Meta-heuristic-based Feature Selection on X-ray Images" adlı çalışmanın kodlarını içermektedir. Yayına https://doi.org/10.1016/j.bspc.2020.102257 adresinden ulaşabilirsiniz. 
 
